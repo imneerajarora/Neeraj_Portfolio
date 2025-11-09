@@ -128,3 +128,31 @@
     .fade-up.l2{animation-delay:220ms}
     @keyframes up{to{opacity:1;transform:none}}
 
+/* responsive quick-fix for About section (works even if inline styles exist) */
+@media (max-width: 880px) {
+  /* target the direct grid container under #about */
+  #about > div {
+    display: grid !important;
+    grid-template-columns: 1fr !important;
+    grid-template-rows: auto !important;
+    gap: 18px !important;
+    align-items: start !important;
+    padding: 0 16px; /* give some horizontal breathing room on phone */
+    box-sizing: border-box;
+  }
+
+  /* ensure the internal aside / cards take full width */
+  #about .card,
+  #about .hero-card,
+  #about aside {
+    width: 100% !important;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  /* prevent long words from overflowing */
+  #about p, #about ul {
+    overflow-wrap: break-word;
+    word-break: break-word;
+  }
+}
