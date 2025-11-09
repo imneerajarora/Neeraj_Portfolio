@@ -1,8 +1,8 @@
-  #Neeraj Kumar — Portfolio Website
+  # Neeraj Kumar — Portfolio Website
 
 
 
-📖 About
+### About
 
 This is my personal portfolio website, built to showcase my work as a Data Analyst and Python Full Stack Developer.
 It highlights my journey, skills, and key projects — from data dashboards to Django-based AI tools — all designed with a clean, responsive, and interactive interface.
@@ -10,7 +10,7 @@ It highlights my journey, skills, and key projects — from data dashboards to D
 The portfolio also includes a WhatsApp-integrated contact form, making it super easy for recruiters and collaborators to connect instantly.
 
 
-🧩 Features
+ ### 🧩 Features
 
 ✅ Fully responsive and modern UI (works on all devices)
 ✅ Smooth scrolling navigation and fade-up animations
@@ -20,7 +20,7 @@ The portfolio also includes a WhatsApp-integrated contact form, making it super 
 ✅ Organized sections — About, Projects, Education, Certifications, and Contact
 
 
-📂 Project Highlights
+### 📂 Project Highlights
 
 Sales Performance Dashboard – Interactive Power BI report analyzing Indian sales data.
 
@@ -29,11 +29,11 @@ Employee Insights – Data-driven HR analysis using Python and SQL.
 EasyAccess (Django App) – A full-stack AI tools & documentation platform with authentication and user tracking.
 
 
-💬 Contact
+### 💬 Contact
 
-📧 Email: neerajchawla378@gmail.com
+#### 📧 Email: neerajchawla378@gmail.com
 
-📱 Phone: +91 78787-70940
-🌍 LinkedIn: linkedin.com/in/neeraj-arora-742119235
+#### 📱 Phone: +91 78787-70940
+#### 🌍 LinkedIn: linkedin.com/in/neeraj-arora-742119235
 
-💻 GitHub: github.com/imneerajarora
+#### 💻 GitHub: github.com/imneerajarora
